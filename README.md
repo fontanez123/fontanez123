@@ -1,16 +1,36 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/lazarokabib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**fontanez123/fontanez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem vindo ao meu perfil GitHub 👋
+ Olá, meu nome **Lázaro Kabib**, sou de Salvador, Bahia, Brasil.
+ 
+ Atualmente em transição de carreira, Desenvolvedor Web Full Stack em formação na Trybe, aberto a oportunidades para vagas de Desenvolvedor Full-Stack Júnior, Desenvolvedor Front-end, Back-end. 
+ 
+ Durante esse processo estou aprendendo sobre 💹📚: 
+ 
+- Git
+- HTML
+- CSS
+- JavaScript
+- React (+ Redux, + Hook)
+- Docker
+- MySQL
+- Node.js (+ Express, + Sequelize)
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre disposto a aprender novas ferramentas e linguagens, e conhecer com mais profundidade as que já trabalho.
+
+Contatos:
+
+- LinkedIn
+- Email: lazarokabib94@gmail.com
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://github.com/fontanez123/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fontanez123&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/fontanez123/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanez123&layout=compact&theme=dark" />
+</a>
+
