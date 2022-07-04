@@ -28,9 +28,11 @@ Contatos:
 -------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/fontanez123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fontanez123&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fontanez123&show_icons=true&theme=dark" />
 </a>
+
+
 <a href="https://github.com/fontanez123/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanez123&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanez123&layout=compact&theme=dark" />
 </a>
 
