@@ -20,7 +20,7 @@
 
 Estou sempre disposto a aprender novas ferramentas e linguagens, e conhecer com mais profundidade as que já trabalho.
 
-Contatos:
+Informações de contato:
 
 - LinkedIn
 - Email: lazarokabib94@gmail.com
